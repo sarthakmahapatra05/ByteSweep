@@ -1,0 +1,1 @@
+// This file is intentionally left blank. All types/interfaces were removed for JavaScript conversion. 
